@@ -30,3 +30,41 @@
 *.exe
 *.out
 *.app
+
+# Custom
+*.ppm
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+
+# CUDA
+*.cubin
+*.fatbin
+*.ptx
+*.cub
+*.linkinfo
+
+# CMake
+CMakeUserPresets.json
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Build
+build/
+
+# Dependencies
+dependencies/
+
+# Binaries
+bin/
+
+# Custom
+*.vs
+*.vscode
+
+
